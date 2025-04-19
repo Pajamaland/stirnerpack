@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "rubberwood_thermal_coffee_table_basic",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:rubberwood_thermal_coffee_table_basic"
+        }
+      ]
+    }
+  ]
+}

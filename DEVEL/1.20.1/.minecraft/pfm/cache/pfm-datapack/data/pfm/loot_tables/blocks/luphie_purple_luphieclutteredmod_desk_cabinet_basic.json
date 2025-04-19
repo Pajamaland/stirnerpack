@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "luphie_purple_luphieclutteredmod_desk_cabinet_basic",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:luphie_purple_luphieclutteredmod_desk_cabinet_basic"
+        }
+      ]
+    }
+  ]
+}

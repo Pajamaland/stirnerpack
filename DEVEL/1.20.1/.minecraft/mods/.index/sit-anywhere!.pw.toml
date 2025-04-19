@@ -1,0 +1,13 @@
+filename = 'sit-anywhere-by-sozoka-1.1.2.jar'
+name = 'Sit Anywhere!'
+side = 'both'
+
+[download]
+hash = '17eb1abf49a9f4168e3fb9d98c05aac9266f275f5a57551ad3da59a0aad76fdf9bf1d88c8cfe9ab0d32dd49d6b2db8b5b93e98e77fc580de35ff8c35a2a65b31'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gNPj0UDg/versions/NubOSr3E/sit-anywhere-by-sozoka-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'gNPj0UDg'
+version = 'NubOSr3E'

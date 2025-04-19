@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "luphie_glow_luphieclutteredmod_table_modern_dinner",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:luphie_glow_luphieclutteredmod_table_modern_dinner"
+        }
+      ]
+    }
+  ]
+}

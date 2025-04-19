@@ -1,0 +1,1270 @@
+[14Apr2025 23:18:53.191] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, PAJAMALAND, --version, 1.20.1, --gameDir, C:/Users/Niko/AppData/Roaming/PrismLauncher/instances/1.20.1/.minecraft, --assetsDir, C:/Users/Niko/AppData/Roaming/PrismLauncher/assets, --assetIndex, 5, --uuid, aa5874403d9d4125b3287a370777351e, --accessToken, ????????, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --width, 1280, --height, 720]
+[14Apr2025 23:18:53.197] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[14Apr2025 23:18:54.975] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[14Apr2025 23:18:55.056] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[14Apr2025 23:18:55.284] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[14Apr2025 23:18:55.410] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[14Apr2025 23:18:55.431] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[14Apr2025 23:18:55.450] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[14Apr2025 23:18:55.492] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Niko/AppData/Roaming/PrismLauncher/instances/1.20.1/.minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23276%23279!/ Service=ModLauncher Env=CLIENT
+[14Apr2025 23:18:55.511] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 572.70, NVIDIA Corporation
+[14Apr2025 23:18:56.257] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Niko\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.0\fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[14Apr2025 23:18:56.260] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Niko\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.0\javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[14Apr2025 23:18:56.262] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Niko\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.0\lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[14Apr2025 23:18:56.265] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Niko\AppData\Roaming\PrismLauncher\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.0\mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[14Apr2025 23:18:56.783] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[14Apr2025 23:18:56.785] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: C:\Users\Niko\AppData\Roaming\PrismLauncher\instances\1.20.1\.minecraft\mods\resourcefullib-forge-1.20.1-2.1.29.jar
+[14Apr2025 23:18:56.786] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 62 dependencies adding them to mods collection
+[14Apr2025 23:18:58.128] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 20 candidates to load
+[14Apr2025 23:18:59.890] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[14Apr2025 23:19:02.077] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Apr2025 23:19:02.574] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, C:\Users\Niko\AppData\Roaming\PrismLauncher\instances\1.20.1\.minecraft, --assetsDir, C:\Users\Niko\AppData\Roaming\PrismLauncher\assets, --uuid, aa5874403d9d4125b3287a370777351e, --username, PAJAMALAND, --assetIndex, 5, --accessToken, ????????, --userType, msa, --versionType, release, --width, 1280, --height, 720]
+[14Apr2025 23:19:03.144] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 0 override(s) found
+[14Apr2025 23:19:03.145] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[14Apr2025 23:19:03.181] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[14Apr2025 23:19:03.442] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 228 options available, 3 override(s) found
+[14Apr2025 23:19:03.447] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Searching for graphics cards...
+[14Apr2025 23:19:03.894] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=UNKNOWN, name=Virtual Desktop Monitor, version=DriverVersion=13.50.53.699]
+[14Apr2025 23:19:03.894] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=UNKNOWN, name=Parsec Virtual Display Adapter, version=DriverVersion=0.45.0.0]
+[14Apr2025 23:19:03.894] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=UNKNOWN, name=Meta Virtual Monitor, version=DriverVersion=17.12.55.198]
+[14Apr2025 23:19:03.894] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 3060 Ti, version=DriverVersion=32.0.15.7270]
+[14Apr2025 23:19:03.905] [main/WARN] [Embeddium-Workarounds/]: Embeddium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[14Apr2025 23:19:03.905] [main/WARN] [Embeddium-Workarounds/]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[14Apr2025 23:19:03.968] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Apr2025 23:19:04.303] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[14Apr2025 23:19:04.653] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Apr2025 23:19:04.665] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Apr2025 23:19:06.671] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[14Apr2025 23:19:06.671] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin from mod sliceanddice
+[14Apr2025 23:19:06.880] [main/WARN] [mixin/]: Error loading class: me/cominixo/betterf3/modules/TargetModule (java.lang.ClassNotFoundException: me.cominixo.betterf3.modules.TargetModule)
+[14Apr2025 23:19:06.880] [main/WARN] [mixin/]: @Mixin target me.cominixo.betterf3.modules.TargetModule was not found securitycraft.mixins.json:f3.BetterF3TargetModuleMixin from mod securitycraft
+[14Apr2025 23:19:07.148] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/slab/CopycatSlabBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock)
+[14Apr2025 23:19:07.148] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin from mod create_connected
+[14Apr2025 23:19:07.162] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/board/CopycatBoardBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock)
+[14Apr2025 23:19:07.163] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin from mod create_connected
+[14Apr2025 23:19:07.214] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[14Apr2025 23:19:07.458] [main/WARN] [mixin/]: Error loading class: me/shedaniel/math/impl/PointHelper (java.lang.ClassNotFoundException: me.shedaniel.math.impl.PointHelper)
+[14Apr2025 23:19:07.592] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/ponder/PonderWorld (java.lang.ClassNotFoundException: com.simibubi.create.foundation.ponder.PonderWorld)
+[14Apr2025 23:19:07.706] [main/WARN] [mixin/]: Error loading class: journeymap/client/ui/fullscreen/Fullscreen (java.lang.ClassNotFoundException: journeymap.client.ui.fullscreen.Fullscreen)
+[14Apr2025 23:19:07.707] [main/WARN] [mixin/]: @Mixin target journeymap.client.ui.fullscreen.Fullscreen was not found create.mixins.json:compat.JourneyFullscreenMapMixin from mod create
+[14Apr2025 23:19:07.748] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
+[14Apr2025 23:19:07.748] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin from mod create_central_kitchen
+[14Apr2025 23:19:07.843] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushBlock)
+[14Apr2025 23:19:07.843] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushBlockMixin from mod create_central_kitchen
+[14Apr2025 23:19:07.877] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushTopBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushTopBlock)
+[14Apr2025 23:19:07.877] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushTopBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushTopBlockMixin from mod create_central_kitchen
+[14Apr2025 23:19:07.903] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeDoubleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock)
+[14Apr2025 23:19:07.903] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeDoubleStemBlockMixin from mod create_central_kitchen
+[14Apr2025 23:19:07.935] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeMiddleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock)
+[14Apr2025 23:19:07.936] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeMiddleStemBlockMixin from mod create_central_kitchen
+[14Apr2025 23:19:07.954] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeStemBlock)
+[14Apr2025 23:19:07.954] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeStemBlockMixin from mod create_central_kitchen
+[14Apr2025 23:19:07.963] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
+[14Apr2025 23:19:07.963] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin from mod create_central_kitchen
+[14Apr2025 23:19:07.973] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/SmallTeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.SmallTeaBushBlock)
+[14Apr2025 23:19:07.974] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.SmallTeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.SmallTeaBushBlockMixin from mod create_central_kitchen
+[14Apr2025 23:19:07.987] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/TeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.TeaBushBlock)
+[14Apr2025 23:19:07.987] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.TeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.TeaBushBlockMixin from mod create_central_kitchen
+[14Apr2025 23:19:07.993] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[14Apr2025 23:19:07.993] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin from mod create_central_kitchen
+[14Apr2025 23:19:08.001] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[14Apr2025 23:19:08.002] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor from mod create_central_kitchen
+[14Apr2025 23:19:08.009] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[14Apr2025 23:19:08.009] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin from mod create_central_kitchen
+[14Apr2025 23:19:08.014] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/neapolitan/common/item/DrinkItem (java.lang.ClassNotFoundException: com.teamabnormals.neapolitan.common.item.DrinkItem)
+[14Apr2025 23:19:08.016] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.neapolitan.common.item.DrinkItem was not found create_central_kitchen.mixins.json:common.neapolitan.DrinkItemMixin from mod create_central_kitchen
+[14Apr2025 23:19:08.023] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[14Apr2025 23:19:08.023] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin from mod create_central_kitchen
+[14Apr2025 23:19:08.087] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[14Apr2025 23:19:08.088] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[14Apr2025 23:19:08.088] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[14Apr2025 23:19:08.088] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[14Apr2025 23:19:08.089] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[14Apr2025 23:19:08.089] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[14Apr2025 23:19:08.090] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[14Apr2025 23:19:08.090] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[14Apr2025 23:19:08.090] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[14Apr2025 23:19:08.090] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[14Apr2025 23:19:08.091] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[14Apr2025 23:19:08.291] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14Apr2025 23:19:10.969] [pool-4-thread-1/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (20.81 s after launch)
+[14Apr2025 23:19:11.172] [pool-4-thread-1/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[14Apr2025 23:19:11.172] [pool-4-thread-1/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[14Apr2025 23:19:12.711] [pool-4-thread-1/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1734 milliseconds
+[14Apr2025 23:19:14.647] [pool-4-thread-1/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$cmk000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[14Apr2025 23:19:15.740] [pool-4-thread-1/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[14Apr2025 23:19:16.032] [pool-4-thread-1/WARN] [AE2:C/]: Unable to find class com.simibubi.create.foundation.ponder.PonderWorld. Integration with PonderJS disabled.
+[14Apr2025 23:19:16.764] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Niko/AppData/Roaming/PrismLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23400!/assets/.mcassetsroot' uses unexpected schema
+[14Apr2025 23:19:16.764] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Niko/AppData/Roaming/PrismLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23400!/data/.mcassetsroot' uses unexpected schema
+[14Apr2025 23:19:16.808] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Apr2025 23:19:17.325] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: PAJAMALAND
+[14Apr2025 23:19:17.408] [Render thread/INFO] [ModernFix/]: Bypassed Mojang DFU
+[14Apr2025 23:19:17.597] [Render thread/INFO] [switchy/]: [Switchy] Registered module switchy_teleport:last_location
+[14Apr2025 23:19:17.597] [Render thread/INFO] [switchy/]: [Switchy] Registered module switchy_teleport:spawn_point
+[14Apr2025 23:19:17.598] [Render thread/INFO] [switchy/]: [Switchy] Registered module switchy_inventories:ender_chests
+[14Apr2025 23:19:17.598] [Render thread/INFO] [switchy/]: [Switchy] Registered module switchy_inventories:experience
+[14Apr2025 23:19:17.598] [Render thread/INFO] [switchy/]: [Switchy] Registered module switchy_inventories:inventories
+[14Apr2025 23:19:17.598] [Render thread/INFO] [switchy_compat/]: [Switchy Compat] Initialized!
+[14Apr2025 23:19:17.604] [Render thread/INFO] [switchy/]: [Switchy] Registered module switchy_status:health
+[14Apr2025 23:19:17.605] [Render thread/INFO] [switchy/]: [Switchy] Registered module switchy_status:hunger
+[14Apr2025 23:19:17.605] [Render thread/INFO] [switchy/]: [Switchy] Registered module switchy_status:status_effects
+[14Apr2025 23:19:17.625] [Render thread/INFO] [switchy/]: [Switchy] Registered module switchy_proxy:proxies
+[14Apr2025 23:19:17.625] [Render thread/INFO] [switchy/]: [Switchy] Initialized! Registered Modules: [switchy_proxy:proxies, switchy_teleport:last_location, switchy_inventories:experience, switchy_status:health, switchy_status:status_effects, switchy_inventories:ender_chests, switchy_status:hunger, switchy_teleport:spawn_point, switchy_inventories:inventories]
+[14Apr2025 23:19:17.685] [Render thread/INFO] [switchy-client/]: [Switchy Client] Registered client module switchy_teleport:last_location
+[14Apr2025 23:19:17.686] [Render thread/INFO] [switchy-client/]: [Switchy Client] Registered client module switchy_teleport:spawn_point
+[14Apr2025 23:19:17.687] [Render thread/INFO] [switchy-client/]: [Switchy Client] Registered client module switchy_inventories:ender_chests
+[14Apr2025 23:19:17.687] [Render thread/INFO] [switchy-client/]: [Switchy Client] Registered client module switchy_inventories:experience
+[14Apr2025 23:19:17.687] [Render thread/INFO] [switchy-client/]: [Switchy Client] Registered client module switchy_inventories:inventories
+[14Apr2025 23:19:17.688] [Render thread/INFO] [switchy-client/]: [Switchy Client] Registered client module switchy_proxy:proxies
+[14Apr2025 23:19:17.688] [Render thread/INFO] [switchy-client/]: [Switchy Client] Initialized! Registered Modules: [switchy_proxy:proxies, switchy_teleport:last_location, switchy_inventories:experience, switchy_inventories:ender_chests, switchy_teleport:spawn_point, switchy_inventories:inventories]
+[14Apr2025 23:19:17.842] [Render thread/INFO] [net.minecraft.client.Options/]: Added resource packs: []
+[14Apr2025 23:19:17.850] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[14Apr2025 23:19:17.884] [Render thread/WARN] [Embeddium-NvidiaWorkarounds/]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[14Apr2025 23:19:17.888] [Render thread/ERROR] [Embeddium-MixinTaintDetector/]: Mod mixin into Embeddium internals detected. This instance is now tainted. The Embeddium team does not provide any guarantee of support for issues encountered while such mods are installed.
+[14Apr2025 23:19:17.888] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumGameOptions, which may cause instability.
+[14Apr2025 23:19:17.920] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Vendor: NVIDIA Corporation
+[14Apr2025 23:19:17.920] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Renderer: NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2
+[14Apr2025 23:19:17.920] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Version: 4.6.0 NVIDIA 572.70
+[14Apr2025 23:19:17.920] [Render thread/WARN] [Embeddium-PostlaunchChecks/]: Enabling secondary workaround for NVIDIA threaded optimizations
+[14Apr2025 23:19:18.166] [Render thread/INFO] [Oculus/]: Debug functionality is disabled.
+[14Apr2025 23:19:18.168] [Render thread/INFO] [Oculus/]: OpenGL 4.5 detected, enabling DSA.
+[14Apr2025 23:19:18.175] [Render thread/INFO] [Oculus/]: Shaders are disabled because no valid shaderpack is selected
+[14Apr2025 23:19:18.175] [Render thread/INFO] [Oculus/]: Shaders are disabled
+[14Apr2025 23:19:18.488] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
+[14Apr2025 23:19:18.631] [modloading-worker-0/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus, embeddium_extra] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI, which may cause instability.
+[14Apr2025 23:19:18.875] [modloading-worker-0/INFO] [net.fabricmc.fabric.impl.client.indigo.Indigo/]: [Indigo] Registering Indigo renderer!
+[14Apr2025 23:19:19.010] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[14Apr2025 23:19:19.010] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[14Apr2025 23:19:19.451] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for betteranimationscollection:main
+[14Apr2025 23:19:20.061] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing client components for betteranimationscollection:main
+[14Apr2025 23:19:20.068] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[14Apr2025 23:19:20.377] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[14Apr2025 23:19:20.377] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[14Apr2025 23:19:20.377] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[14Apr2025 23:19:20.377] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[14Apr2025 23:19:20.377] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[14Apr2025 23:19:20.377] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[14Apr2025 23:19:20.377] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[14Apr2025 23:19:20.386] [modloading-worker-0/INFO] [Create: Interiors/]: Create: Interiors v0.5.6 initializing! Create version: 6.0.4 on platform: Forge
+[14Apr2025 23:19:20.702] [ForkJoinPool.commonPool-worker-1/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] Cached update file detected, using that!
+[14Apr2025 23:19:20.975] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Loading...
+[14Apr2025 23:19:21.097] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[14Apr2025 23:19:21.121] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 21.09 ms
+[14Apr2025 23:19:21.172] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
+[14Apr2025 23:19:21.272] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[14Apr2025 23:19:21.533] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[14Apr2025 23:19:21.583] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[14Apr2025 23:19:21.764] [modloading-worker-0/INFO] [WaveyCapes/]: Wavey Capes loaded MinecraftCapes support!
+[14Apr2025 23:19:21.889] [modloading-worker-0/WARN] [supermartijn642corelib/]: Mod 'Chipped' is requesting registration helper for different modid 'rechiseled_chipped'!
+[14Apr2025 23:19:21.916] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[14Apr2025 23:19:21.919] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
+[14Apr2025 23:19:21.972] [modloading-worker-0/INFO] [fr.samlegamer.mcwbiomesoplenty.McwBOP/]: Macaw's Biomes O' Plenty Is Charged !
+[14Apr2025 23:19:22.266] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
+[14Apr2025 23:19:22.351] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
+[14Apr2025 23:19:22.385] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
+[14Apr2025 23:19:23.166] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
+[14Apr2025 23:19:23.172] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
+[14Apr2025 23:19:23.185] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
+[14Apr2025 23:19:23.318] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
+[14Apr2025 23:19:23.343] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
+[14Apr2025 23:19:23.356] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
+[14Apr2025 23:19:23.380] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
+[14Apr2025 23:19:23.388] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
+[14Apr2025 23:19:23.397] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on create_connected.mixins.json:sequencedgearshift.SequencedGearshiftScreenMixin from mod create_connected::handler$cii000$create_connected$updateParamsOfRow exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[14Apr2025 23:19:23.448] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
+[14Apr2025 23:19:23.461] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
+[14Apr2025 23:19:23.470] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
+[14Apr2025 23:19:23.474] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
+[14Apr2025 23:19:23.477] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
+[14Apr2025 23:19:23.646] [modloading-worker-0/ERROR] [mod.chiselsandbits.api.util.ClassUtils/]: Failed to load: mod.chiselsandbits.forge.compat.create.CreateCandBPlugin
+java.lang.NoClassDefFoundError: com/simibubi/create/content/contraptions/behaviour/MovementBehaviour
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:375) ~[?:?]
+	at mod.chiselsandbits.api.util.ClassUtils.createOrGetInstance(ClassUtils.java:45) ~[chisels-and-bits-forge-1.4.148.jar%23296!/:1.4.148]
+	at mod.chiselsandbits.forge.platform.ForgePluginDiscoverer.createPluginFrom(ForgePluginDiscoverer.java:95) ~[chisels-and-bits-forge-1.4.148.jar%23296!/:1.4.148]
+	at mod.chiselsandbits.forge.platform.ForgePluginDiscoverer.loadPlugins(ForgePluginDiscoverer.java:58) ~[chisels-and-bits-forge-1.4.148.jar%23296!/:1.4.148]
+	at mod.chiselsandbits.plugin.PluginManger.detect(PluginManger.java:35) ~[chisels-and-bits-forge-1.4.148.jar%23296!/:1.4.148]
+	at mod.chiselsandbits.ChiselsAndBits.<init>(ChiselsAndBits.java:62) ~[chisels-and-bits-forge-1.4.148.jar%23296!/:1.4.148]
+	at mod.chiselsandbits.forge.Forge.lambda$new$1(Forge.java:42) ~[chisels-and-bits-forge-1.4.148.jar%23296!/:1.4.148]
+	at com.communi.suggestu.scena.core.init.PlatformInitializationHandler.onInit(PlatformInitializationHandler.java:29) ~[scena-forge-1.0.103.jar%23515!/:1.0.103]
+	at mod.chiselsandbits.forge.Forge.<init>(Forge.java:37) ~[chisels-and-bits-forge-1.4.148.jar%23296!/:1.4.148]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[javafmllanguage-1.20.1-47.4.0.jar%23402!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:126) ~[fmlcore-1.20.1-47.4.0.jar%23401!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.behaviour.MovementBehaviour
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 24 more
+[14Apr2025 23:19:23.672] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits-Forge client
+[14Apr2025 23:19:23.883] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Starting Minecraft with arguments:
+-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+-Xms512m
+-Xmx6144m
+-Duser.language=en
+-Djava.library.path=C:/Users/Niko/AppData/Roaming/PrismLauncher/instances/1.20.1/natives
+[14Apr2025 23:19:23.887] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :  __  __ _                            __ _    
+[14Apr2025 23:19:23.887] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |  \/  (_)                          / _| |   
+[14Apr2025 23:19:23.887] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : | \  / |_ _ __   ___  ___ _ __ __ _| |_| |_  
+[14Apr2025 23:19:23.887] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : | |\/| | | '_ \ / _ \/ __| '__/ _` |  _| __| 
+[14Apr2025 23:19:23.887] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : | |  | | | | | |  __/ (__| | | (_| | | | |_  
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |_|__|_|_|_| |_|\___|\___|_|_ \__,_|_|  \__| 
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |__   __|                (_) |               
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :    | |_ __ __ _ _ __  ___ _| |_              
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :    | | '__/ _` | '_ \/ __| | __|             
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :    | | | | (_| | | | \__ \ | |_              
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :    |_|_|  \__,_|_| |_|___/_|\__|             
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :  _____       _ _                             
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |  __ \     (_) |                            
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : | |__) |__ _ _| |_      ____ _ _   _         
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |  _  // _` | | \ \ /\ / / _` | | | |        
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : | | \ \ (_| | | |\ V  V / (_| | |_| |        
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |_|  \_\__,_|_|_| \_/\_/ \__,_|\__, |        
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :                                 __/ |        
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :                                |___/ (4.0.0-beta.16+1.20.1) 
+[14Apr2025 23:19:23.888] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :                                              
+[14Apr2025 23:19:23.993] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[14Apr2025 23:19:24.338] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway blocks
+[14Apr2025 23:19:24.457] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway items
+[14Apr2025 23:19:24.691] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway block entity types
+[14Apr2025 23:19:24.740] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway entity types
+[14Apr2025 23:19:24.740] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway creative mode tabs
+[14Apr2025 23:19:24.744] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway sound events
+[14Apr2025 23:19:24.744] [modloading-worker-0/INFO] [MinecraftMappings/]: Minecraft Mappings logging enabled
+[14Apr2025 23:19:24.947] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway key bindings
+[14Apr2025 23:19:25.250] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Resource pack version check completed in 1 ms
+[14Apr2025 23:19:26.173] [Render thread/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[14Apr2025 23:19:26.174] [Render thread/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[14Apr2025 23:19:30.652] [Render thread/ERROR] [mixin/]: Injection error: LVT in net/minecraft/world/entity/npc/VillagerTrades$EmeraldsForVillagerTypeItem::m_213663_(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/util/RandomSource;)Lnet/minecraft/world/item/trading/MerchantOffer; has incompatible changes at opcode 34 in callback fabric-object-builder-v1.mixins.json:TradeOffersTypeAwareBuyForOneEmeraldFactoryMixin from mod fabric_object_builder_api_v1->@Inject::failOnNullItem(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/util/RandomSource;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lnet/minecraft/world/item/ItemStack;)V.
+ Expected: [Lnet/minecraft/world/item/ItemStack;]
+    Found: [Lnet/minecraft/world/item/Item;]
+Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack;]
+[14Apr2025 23:19:31.618] [Render thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Found block type with duplicate id (minecraft:oak), skipping
+[14Apr2025 23:19:31.618] [Render thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Found block type with duplicate id (luphieclutteredmod:luphie_flowering_yellow), skipping
+[14Apr2025 23:19:33.004] [Render thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[14Apr2025 23:19:33.744] [Datafixer Bootstrap/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[14Apr2025 23:19:33.846] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 188 Datafixer optimizations took 180 milliseconds
+[14Apr2025 23:19:35.445] [Render thread/INFO] [ModernFix/]: Replacing search trees with 'JEI' provider
+[14Apr2025 23:19:35.952] [Render thread/INFO] [Embeddium/]: Block securitycraft:reinforced_dispenser had its color provider replaced and will not use per-vertex coloring
+[14Apr2025 23:19:35.952] [Render thread/INFO] [Embeddium/]: Block securitycraft:reinforced_dropper had its color provider replaced and will not use per-vertex coloring
+[14Apr2025 23:19:35.952] [Render thread/INFO] [Embeddium/]: Block securitycraft:reinforced_hopper had its color provider replaced and will not use per-vertex coloring
+[14Apr2025 23:19:35.952] [Render thread/INFO] [Embeddium/]: Block securitycraft:reinforced_observer had its color provider replaced and will not use per-vertex coloring
+[14Apr2025 23:19:35.954] [Render thread/INFO] [Embeddium/]: Block securitycraft:reinforced_grass_block had its color provider replaced and will not use per-vertex coloring
+[14Apr2025 23:19:35.954] [Render thread/INFO] [Embeddium/]: Block securitycraft:reinforced_water_cauldron had its color provider replaced and will not use per-vertex coloring
+[14Apr2025 23:19:35.955] [Render thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: loaded in block colorizer
+[14Apr2025 23:19:35.969] [Render thread/INFO] [mod.chiselsandbits.client.reloading.ClientResourceReloadingManager/]: Setting up client reloading resource manager.
+[14Apr2025 23:19:36.011] [Render thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: loaded in item colorizer
+[14Apr2025 23:19:36.310] [Render thread/INFO] [Oculus/]: Hardware information:
+[14Apr2025 23:19:36.310] [Render thread/INFO] [Oculus/]: CPU: 24x AMD Ryzen 9 3900X 12-Core Processor 
+[14Apr2025 23:19:36.310] [Render thread/INFO] [Oculus/]: GPU: NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2 (Supports OpenGL 4.6.0 NVIDIA 572.70)
+[14Apr2025 23:19:36.311] [Render thread/INFO] [Oculus/]: OS: Windows 11 (10.0)
+[14Apr2025 23:19:36.341] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.VertexFormatDescriptionImpl, which may cause instability.
+[14Apr2025 23:19:36.347] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.buffer.SodiumBufferBuilder, which may cause instability.
+[14Apr2025 23:19:36.371] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.SodiumWorldRenderer, which may cause instability.
+[14Apr2025 23:19:37.317] [Render thread/INFO] [ModernFix/]: Invalidating pack caches
+[14Apr2025 23:19:37.320] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, PFM-Runtime-RP, mod_resources, fabric
+[14Apr2025 23:19:38.679] [Render thread/INFO] [PFM-Asset-Generation/]: Data Hash for Assets and Variant List matched, skipping generation
+[14Apr2025 23:19:38.729] [modloading-worker-0/INFO] [Puzzles Lib/]: Loading client config for betteranimationscollection
+[14Apr2025 23:19:38.924] [Worker-ResourceReload-19/INFO] [mekanism.common.Mekanism/]: Version 10.4.15 initializing...
+[14Apr2025 23:19:38.968] [Worker-ResourceReload-20/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[14Apr2025 23:19:39.004] [Worker-ResourceReload-12/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Additions' module.
+[14Apr2025 23:19:39.011] [Worker-ResourceReload-21/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[14Apr2025 23:19:39.016] [Worker-ResourceReload-21/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[14Apr2025 23:19:39.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[14Apr2025 23:19:39.466] [Worker-ResourceReload-19/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[14Apr2025 23:19:39.466] [Worker-ResourceReload-19/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[14Apr2025 23:19:39.676] [Finalizer/WARN] [ModernFix/]: One or more BufferBuilders have been leaked, ModernFix will attempt to correct this.
+[14Apr2025 23:19:39.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[14Apr2025 23:19:39.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/stairs.json
+[14Apr2025 23:19:39.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwstairs] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[14Apr2025 23:19:39.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[14Apr2025 23:19:39.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[14Apr2025 23:19:39.948] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
+[14Apr2025 23:19:39.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.1 Target: null
+[14Apr2025 23:19:39.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[14Apr2025 23:19:40.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[14Apr2025 23:19:40.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[14Apr2025 23:19:40.228] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[14Apr2025 23:19:40.228] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[14Apr2025 23:19:40.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[14Apr2025 23:19:40.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betteranimationscollection] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/betteranimationscollection.json
+[14Apr2025 23:19:40.273] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betteranimationscollection] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[14Apr2025 23:19:40.273] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwholidays] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/holidays.json
+[14Apr2025 23:19:40.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwholidays] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[14Apr2025 23:19:40.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [botanypots] Starting version check at https://updates.blamejared.com/get?n=botanypots&gv=1.20.1
+[14Apr2025 23:19:40.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [botanypots] Found status: BETA Current: 13.0.41 Target: 13.0.41
+[14Apr2025 23:19:40.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Apr2025 23:19:40.592] [Worker-ResourceReload-10/WARN] [net.minecraft.client.sounds.SoundManager/]: File mtr:sounds/minecart/loop.ogg does not exist, cannot add it to event mtr:minecart_loop
+[14Apr2025 23:19:40.593] [Worker-ResourceReload-10/WARN] [net.minecraft.client.sounds.SoundManager/]: File mtr:sounds/minecart/motor4.ogg does not exist, cannot add it to event mtr:minecart_motor4
+[14Apr2025 23:19:40.593] [Worker-ResourceReload-10/WARN] [net.minecraft.client.sounds.SoundManager/]: File mtr:sounds/minecart/motor3.ogg does not exist, cannot add it to event mtr:minecart_motor3
+[14Apr2025 23:19:40.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[14Apr2025 23:19:40.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paths.json
+[14Apr2025 23:19:40.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaths] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[14Apr2025 23:19:40.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/main/cofh_core/update.json
+[14Apr2025 23:19:40.686] [Worker-ResourceReload-13/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
+[14Apr2025 23:19:40.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: AHEAD Current: 11.0.2 Target: null
+[14Apr2025 23:19:40.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Starting version check at https://raw.github.com/cofh/version/main/thermal/update.json
+[14Apr2025 23:19:41.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Found status: AHEAD Current: 11.0.6 Target: null
+[14Apr2025 23:19:41.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_integration] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_integration.json
+[14Apr2025 23:19:41.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_integration] Found status: AHEAD Current: 11.0.1 Target: null
+[14Apr2025 23:19:41.136] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_innovation] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_innovation.json
+[14Apr2025 23:19:41.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_innovation] Found status: AHEAD Current: 11.0.1 Target: null
+[14Apr2025 23:19:41.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_foundation] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_foundation.json
+[14Apr2025 23:19:41.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_foundation] Found status: AHEAD Current: 11.0.6 Target: null
+[14Apr2025 23:19:41.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_locomotion] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_locomotion.json
+[14Apr2025 23:19:41.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_locomotion] Found status: UP_TO_DATE Current: 11.0.1 Target: null
+[14Apr2025 23:19:41.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_dynamics] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_dynamics.json
+[14Apr2025 23:19:41.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_dynamics] Found status: UP_TO_DATE Current: 11.0.1 Target: null
+[14Apr2025 23:19:41.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_cultivation] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_cultivation.json
+[14Apr2025 23:19:41.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_cultivation] Found status: UP_TO_DATE Current: 11.0.1 Target: null
+[14Apr2025 23:19:41.815] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[14Apr2025 23:19:42.108] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[14Apr2025 23:19:42.108] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[14Apr2025 23:19:42.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
+[14Apr2025 23:19:42.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[14Apr2025 23:19:42.246] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.0.15 Target: 8.1.32
+[14Apr2025 23:19:42.246] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[14Apr2025 23:19:42.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[14Apr2025 23:19:42.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[14Apr2025 23:19:42.311] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[14Apr2025 23:19:42.311] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
+[14Apr2025 23:19:42.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: UP_TO_DATE Current: 1.0.1-mc1.20.1 Target: null
+[14Apr2025 23:19:42.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[14Apr2025 23:19:42.358] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[14Apr2025 23:19:42.359] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[14Apr2025 23:19:42.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
+[14Apr2025 23:19:42.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_expansion] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_expansion.json
+[14Apr2025 23:19:42.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal_expansion] Found status: UP_TO_DATE Current: 11.0.1 Target: null
+[14Apr2025 23:19:42.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[14Apr2025 23:19:42.734] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%23100!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23401!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23401!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23100!/:?]
+	... 6 more
+[14Apr2025 23:19:42.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[14Apr2025 23:19:42.768] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%23100!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23401!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23401!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23100!/:?]
+	... 6 more
+[14Apr2025 23:19:42.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controllable] Starting version check at https://mrcrayfish.com/modupdatejson?id=controllable
+[14Apr2025 23:19:42.807] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%23100!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23401!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23401!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%23100!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23100!/:?]
+	... 6 more
+[14Apr2025 23:19:42.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_structures] Starting version check at https://api.modrinth.comauth/init?url=https://modrinth.com/mod/create-structures/version/e9v4MIpX/updates/IAnP4np7/forge_updates.json
+[14Apr2025 23:19:42.832] [Worker-ResourceReload-19/ERROR] [net.minecraft.client.renderer.texture.SpriteLoader/]: Using missing texture, unable to load moa_decor_cookery:block/cesta_de_picnic
+java.io.IOException: Could not load image: Image not of any known type, or corrupt
+	at com.mojang.blaze3d.platform.NativeImage.m_85051_(NativeImage.java:138) ~[client-1.20.1-20230612.114412-srg.jar%23400!/:?]
+	at com.mojang.blaze3d.platform.NativeImage.m_85048_(NativeImage.java:103) ~[client-1.20.1-20230612.114412-srg.jar%23400!/:?]
+	at com.mojang.blaze3d.platform.NativeImage.m_85058_(NativeImage.java:94) ~[client-1.20.1-20230612.114412-srg.jar%23400!/:?]
+	at net.minecraft.client.renderer.texture.SpriteLoader.m_245083_(SpriteLoader.java:139) ~[client-1.20.1-20230612.114412-srg.jar%23400!/:?]
+	at net.minecraft.client.renderer.texture.atlas.SpriteSource$Output.m_261059_(SpriteSource.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23400!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[14Apr2025 23:19:42.840] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.ConnectException: null
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:574) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:142) ~[fmlcore-1.20.1-47.4.0.jar%23401!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:180) ~[fmlcore-1.20.1-47.4.0.jar%23401!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23401!/:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1083) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at jdk.internal.net.http.AsyncSSLConnection.connectAsync(AsyncSSLConnection.java:56) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.createAsync(Http2Connection.java:443) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2ClientImpl.getConnectionFor(Http2ClientImpl.java:131) ~[java.net.http:?]
+	at jdk.internal.net.http.ExchangeImpl.get(ExchangeImpl.java:93) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.establishExchange(Exchange.java:349) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl0(Exchange.java:542) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl(Exchange.java:386) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsync(Exchange.java:378) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:408) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsyncImpl$7(MultiExchange.java:449) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniHandleStage(CompletableFuture.java:950) ~[?:?]
+	at java.util.concurrent.CompletableFuture.handle(CompletableFuture.java:2340) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:439) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsync0$2(MultiExchange.java:341) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$DelegatingExecutor.execute(HttpClientImpl.java:158) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.completeAsync(CompletableFuture.java:2673) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsync(MultiExchange.java:294) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:659) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:553) ~[java.net.http:?]
+	... 5 more
+Caused by: java.nio.channels.UnresolvedAddressException
+	at sun.nio.ch.Net.checkAddress(Net.java:149) ~[?:?]
+	at sun.nio.ch.Net.checkAddress(Net.java:157) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.checkRemote(SocketChannelImpl.java:816) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:839) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at jdk.internal.net.http.AsyncSSLConnection.connectAsync(AsyncSSLConnection.java:56) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.createAsync(Http2Connection.java:443) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2ClientImpl.getConnectionFor(Http2ClientImpl.java:131) ~[java.net.http:?]
+	at jdk.internal.net.http.ExchangeImpl.get(ExchangeImpl.java:93) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.establishExchange(Exchange.java:349) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl0(Exchange.java:542) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsyncImpl(Exchange.java:386) ~[java.net.http:?]
+	at jdk.internal.net.http.Exchange.responseAsync(Exchange.java:378) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:408) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsyncImpl$7(MultiExchange.java:449) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniHandleStage(CompletableFuture.java:950) ~[?:?]
+	at java.util.concurrent.CompletableFuture.handle(CompletableFuture.java:2340) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsyncImpl(MultiExchange.java:439) ~[java.net.http:?]
+	at jdk.internal.net.http.MultiExchange.lambda$responseAsync0$2(MultiExchange.java:341) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$DelegatingExecutor.execute(HttpClientImpl.java:158) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.completeAsync(CompletableFuture.java:2673) ~[?:?]
+	at jdk.internal.net.http.MultiExchange.responseAsync(MultiExchange.java:294) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.sendAsync(HttpClientImpl.java:659) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:553) ~[java.net.http:?]
+	... 5 more
+[14Apr2025 23:19:42.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[14Apr2025 23:19:42.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[14Apr2025 23:19:42.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_sit_anywherebysozoka] Starting version check at https://api.modrinth.com/updates/gNPj0UDg/forge_updates.json
+[14Apr2025 23:19:43.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_sit_anywherebysozoka] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[14Apr2025 23:19:43.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [appmek] Starting version check at https://api.modrinth.com/updates/applied-mekanistics/forge_updates.json
+[14Apr2025 23:19:43.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [appmek] Found status: BETA Current: 1.4.2 Target: null
+[14Apr2025 23:19:43.735] [Worker-ResourceReload-16/WARN] [net.minecraft.client.renderer.texture.SpriteLoader/]: Texture mtr:block/psd_door_top_right_1 with size 72x36 limits mip level from 4 to 2
+[14Apr2025 23:19:47.131] [Worker-ResourceReload-12/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Apr2025 23:19:47.487] [Render thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[14Apr2025 23:19:47.487] [Render thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[14Apr2025 23:19:47.487] [Render thread/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[14Apr2025 23:19:47.487] [Render thread/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[14Apr2025 23:19:47.488] [Render thread/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[14Apr2025 23:19:47.488] [Render thread/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[14Apr2025 23:19:47.488] [Render thread/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[14Apr2025 23:19:47.560] [Render thread/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[14Apr2025 23:19:47.641] [Worker-ResourceReload-2/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2
+[14Apr2025 23:19:47.644] [Worker-ResourceReload-5/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 1/2
+[14Apr2025 23:19:47.770] [Worker-ResourceReload-9/INFO] [mekanism.common.Mekanism/]: Initialized HolidayManager.
+[14Apr2025 23:19:49.386] [Render thread/INFO] [MinecraftCapes/]: Initialising
+[14Apr2025 23:19:49.389] [Render thread/INFO] [MinecraftCapes/]: Initialised
+[14Apr2025 23:19:50.188] [Render thread/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2
+[14Apr2025 23:19:50.694] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Registered player tracker system: minimap_synced
+[14Apr2025 23:19:50.695] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: World Map found!
+[14Apr2025 23:19:50.696] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: No Optifine!
+[14Apr2025 23:19:50.696] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: No Vivecraft!
+[14Apr2025 23:19:50.696] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: Iris found!
+[14Apr2025 23:19:50.696] [Render thread/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 2/2
+[14Apr2025 23:19:50.704] [Render thread/INFO] [xaero.map.WorldMap/]: New world map region cache hash code: -1450067739
+[14Apr2025 23:19:50.705] [Render thread/INFO] [xaero.map.WorldMap/]: Registered player tracker system: map_synced
+[14Apr2025 23:19:50.709] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's WorldMap Mod: Xaero's minimap found!
+[14Apr2025 23:19:50.714] [Render thread/INFO] [xaero.map.WorldMap/]: Registered player tracker system: minimap_synced
+[14Apr2025 23:19:50.714] [Render thread/INFO] [xaero.map.WorldMap/]: No Optifine!
+[14Apr2025 23:19:50.714] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: No Vivecraft!
+[14Apr2025 23:19:50.714] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: Iris found!
+[14Apr2025 23:19:51.756] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=10'
+[14Apr2025 23:19:51.756] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=11'
+[14Apr2025 23:19:51.756] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=12'
+[14Apr2025 23:19:51.756] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=13'
+[14Apr2025 23:19:51.756] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=14'
+[14Apr2025 23:19:51.756] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=15'
+[14Apr2025 23:19:51.756] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=4'
+[14Apr2025 23:19:51.756] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=3'
+[14Apr2025 23:19:51.757] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=2'
+[14Apr2025 23:19:51.757] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=1'
+[14Apr2025 23:19:51.757] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=0'
+[14Apr2025 23:19:51.757] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=9'
+[14Apr2025 23:19:51.757] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=8'
+[14Apr2025 23:19:51.757] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=7'
+[14Apr2025 23:19:51.757] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=6'
+[14Apr2025 23:19:51.757] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'smokeleafindustry:blockstates/hash_oil_block.json' missing model for variant: 'smokeleafindustry:hash_oil_block#level=5'
+[14Apr2025 23:19:55.995] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/oak_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=down': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.995] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/oak_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=up': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.995] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/birch_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=down': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.995] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/birch_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=up': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.996] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/spruce_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=down': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.996] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/spruce_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=up': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.996] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/dark_oak_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=down': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.997] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/dark_oak_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=up': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.997] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/jungle_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=down': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.997] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/jungle_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=up': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.998] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/acacia_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=down': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.998] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/acacia_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=up': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.999] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/mangrove_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=down': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.999] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/mangrove_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=up': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.999] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/cherry_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=down': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.999] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/cherry_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=up': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.999] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/bamboo_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=down': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.999] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/bamboo_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=up': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.999] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/crimson_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=down': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.999] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/crimson_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=up': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:55.999] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/warped_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=down': Unknown value: 'down' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:56.000] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Exception loading blockstate definition: 'exlinefurniture:blockstates/warped_dresser.json' in resourcepack: 'mod_resources' for variant: 'facing=up': Unknown value: 'up' for blockstate property: 'facing' [north, south, west, east]
+[14Apr2025 23:19:57.876] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'minecraft:brass_drone' referenced from: create_sa:brass_drone_item#inventory: java.io.FileNotFoundException: minecraft:models/brass_drone.json
+[14Apr2025 23:19:57.878] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'minecraft:flamethrower' referenced from: create_sa:flamethrower#inventory: java.io.FileNotFoundException: minecraft:models/flamethrower.json
+[14Apr2025 23:19:57.878] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'minecraft:chains' referenced from: create_sa:chains#inventory: java.io.FileNotFoundException: minecraft:models/chains.json
+[14Apr2025 23:20:11.637] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:langosta#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.637] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriacortada#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.637] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:hamburguesa#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.637] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopaconejo#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.637] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:litrodeleche#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajadepizzaabierta#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:donas#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tabladecortar#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopabetabel#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pandemuerto#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sarten#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pasteldechocolate#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pizza#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollaconejo#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pizza#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:queso#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:betabel#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tabladecortar#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pastelgrande#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.638] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:rodilloymasa#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriadorada#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tazadecafe#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:queso#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:taza#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:fideos#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sartenconhuevo#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopahongos#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:manzanadorada#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:manzana#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:manzanadorada#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tazadecafe#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:betabelcortado#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollabetabel#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sandia#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajasdepizza#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tarro#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajasdepizza#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajasdepizza#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopabetabel#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sandwich#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sartenconhuevo#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pasteldechocolate#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pastelgrande#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajadepizzaabierta#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollabetabel#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollahongos#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:langosta#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:soportetazas#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tabladecortar#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sandia#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sandwich#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajadepizza#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pizza#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollahongos#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tazadecafe#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tabladecortar#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sandia#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriadoradacortada#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pastelgrande#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopahongos#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pavo#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:fideos#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model exlinefurniture:husk_arm#inventory:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/husk_arm
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:betabelcortado#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopahongos#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:litrodeleche#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pastelgrande#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriadorada#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sartenconhuevo#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:fideos#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.639] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriadorada#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:fideos#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopahongos#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:manzanadorada#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajadepizza#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sartenconhuevo#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tarro#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoria#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajadepizza#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:taza#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:bolsadesemillas#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollahongos#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model exlinefurniture:husk_arm#facing=west:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/husk_arm
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sandia#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tetera#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:langosta#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoria#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoria#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:betabel#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollahongos#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:betabelcortado#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:soportetazas#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model createaddition:small_light_connector#facing=west,mode=push,powered=true,rotation=x_clockwise_180,variant=default:
+    minecraft:textures/atlas/blocks.png:create:block/chute_block
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajadepizza#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tarrodecerveza#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopaconejo#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:manzana#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:soportetazas#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:mermelada#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:hamburguesa#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:queso#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:manzanadorada#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopabetabel#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriadorada#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sarten#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tazadecafe#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:litrodeleche#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:donas#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriacortada#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopabetabel#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pasteldechocolate#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model exlinefurniture:husk_arm#facing=north:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/husk_arm
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:soportetazas#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:mermelada#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tabladecortar#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.640] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tarro#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:manzana#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollaconejo#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:betabelcortado#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:langosta#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tacos#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pasteldechocolate#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pavo#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:bolsadesemillas#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:manzana#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sandwich#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tazadecafe#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollabetabel#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoria#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajasdepizza#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajadepizzaabierta#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:litrodeleche#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pastelgrande#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajasdepizza#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:rodilloymasa#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:queso#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sandwich#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pizza#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:fideos#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model exlinefurniture:husk_arm#facing=east:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/husk_arm
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopabetabel#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pavo#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollabetabel#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajadepizzaabierta#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sandwich#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:rodilloymasa#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:hamburguesa#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:langosta#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajadepizzaabierta#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:rodilloymasa#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriacortada#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:mermelada#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pizza#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:manzana#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:donas#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sarten#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pasteldechocolate#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pandemuerto#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tacos#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriadoradacortada#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:queso#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:taza#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:taza#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriacortada#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tetera#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:hamburguesa#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tacos#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pandemuerto#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sartenconhuevo#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tacos#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriacortada#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:betabelcortado#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model exlinefurniture:husk_arm#facing=south:
+    minecraft:textures/atlas/blocks.png:exlinefurniture:blocks/husk_arm
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pandemuerto#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pavo#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollabetabel#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopahongos#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriadorada#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollaconejo#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pavo#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollaconejo#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:litrodeleche#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:betabel#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:manzanadorada#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:donas#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriadoradacortada#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sarten#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tarrodecerveza#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:donas#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.641] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tetera#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sandia#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollahongos#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:rodilloymasa#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:hamburguesa#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tarrodecerveza#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:soportetazas#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tarro#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sarten#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoria#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriadoradacortada#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tarrodecerveza#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:zanahoriadoradacortada#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopaconejo#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tarro#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:betabel#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tarrodecerveza#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:mermelada#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tetera#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:ollaconejo#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:mermelada#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:bolsadesemillas#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.642] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:taza#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.643] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:bolsadesemillas#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.643] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:pandemuerto#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.643] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopaconejo#facing=north:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.643] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tetera#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.643] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:sopaconejo#inventory:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.643] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:tacos#facing=east:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.643] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:bolsadesemillas#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.643] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:cajadepizza#facing=south:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:11.643] [Worker-ResourceReload-15/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model moa_decor_cookery:betabel#facing=west:
+    minecraft:textures/atlas/blocks.png:moa_decor_cookery:block/
+[14Apr2025 23:20:12.999] [Worker-ResourceReload-18/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[14Apr2025 23:20:13.020] [Worker-ResourceReload-18/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[14Apr2025 23:20:13.024] [Worker-ResourceReload-18/INFO] [Jade/]: Start loading plugin at org.mtr.init.JadeConfig
+[14Apr2025 23:20:13.024] [Worker-ResourceReload-18/INFO] [MinecraftTransitRailway/]: Jade detected
+[14Apr2025 23:20:13.024] [Worker-ResourceReload-18/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[14Apr2025 23:20:13.049] [Worker-ResourceReload-18/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[14Apr2025 23:20:13.053] [Worker-ResourceReload-18/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[14Apr2025 23:20:13.058] [Worker-ResourceReload-18/INFO] [Jade/]: Start loading plugin at appeng.integration.modules.jade.JadeModule
+[14Apr2025 23:20:13.082] [Worker-ResourceReload-18/INFO] [Jade/]: Start loading plugin at me.ramidzkh.mekae2.integration.jade.AMJadePlugin
+[14Apr2025 23:20:13.083] [Worker-ResourceReload-21/INFO] [PonderIndex/]: Registering Ponder Scenes took 125.6 ms
+[14Apr2025 23:20:13.120] [Worker-ResourceReload-21/INFO] [PonderIndex/]: Registering Ponder Tags took 36.29 ms
+[14Apr2025 23:20:13.725] [Render thread/INFO] [net.minecraft.client.Options/]: Added resource packs: []
+[14Apr2025 23:20:13.996] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[14Apr2025 23:20:13.996] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14Apr2025 23:20:14.030] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[14Apr2025 23:20:14.031] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[14Apr2025 23:20:14.198] [Render thread/INFO] [mod.chiselsandbits.client.reloading.ClientResourceReloadingManager/]: Resetting client caches
+[14Apr2025 23:20:14.199] [Render thread/INFO] [mod.chiselsandbits.reloading.DataReloadingResourceManager/]: Resetting common caches
+[14Apr2025 23:20:14.199] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 chiselsandbits:textures/atlases/icons.png-atlas
+[14Apr2025 23:20:14.201] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 8192x8192x4 minecraft:textures/atlas/blocks.png-atlas
+[14Apr2025 23:20:15.726] [Render thread/INFO] [MinecraftTransitRailway/]: Loaded 399 vehicles and completed door movement validation in 0.0 ms
+[14Apr2025 23:20:15.726] [Render thread/INFO] [MinecraftTransitRailway/]: Loaded 131 signs
+[14Apr2025 23:20:15.726] [Render thread/INFO] [MinecraftTransitRailway/]: Loaded 3 rails
+[14Apr2025 23:20:15.726] [Render thread/INFO] [MinecraftTransitRailway/]: Loaded 1 objects
+[14Apr2025 23:20:15.727] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/signs.png-atlas
+[14Apr2025 23:20:15.728] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14Apr2025 23:20:15.730] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14Apr2025 23:20:15.731] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x4 refurbished_furniture:textures/atlas/tv_channels.png-atlas
+[14Apr2025 23:20:15.732] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[14Apr2025 23:20:15.743] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/chest.png-atlas
+[14Apr2025 23:20:15.744] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[14Apr2025 23:20:15.745] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14Apr2025 23:20:15.745] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14Apr2025 23:20:16.111] [Render thread/WARN] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Could not apply rainbow color layer to securitycraft:sentry, has custom renderer that is not LivingEntityRenderer.
+[14Apr2025 23:20:16.111] [Render thread/WARN] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Could not apply rainbow color layer to create:package, has custom renderer that is not LivingEntityRenderer.
+[14Apr2025 23:20:16.147] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[14Apr2025 23:20:16.184] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader botania:film_grain_particle could not find sampler named Sampler2 in the specified shader program.
+[14Apr2025 23:20:16.192] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader cofh_core:particle_over could not find sampler named Sampler2 in the specified shader program.
+[14Apr2025 23:20:16.192] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader cofh_core:particle_add could not find sampler named Sampler2 in the specified shader program.
+[14Apr2025 23:20:16.193] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader cofh_core:particle_screen could not find sampler named Sampler2 in the specified shader program.
+[14Apr2025 23:20:16.227] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x0 minecraft:textures/atlas/particles.png-atlas
+[14Apr2025 23:20:16.231] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x0 minecraft:textures/atlas/paintings.png-atlas
+[14Apr2025 23:20:16.233] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14Apr2025 23:20:16.324] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[14Apr2025 23:20:16.325] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 mekanism:textures/atlas/robit.png-atlas
+[14Apr2025 23:20:16.417] [Render thread/INFO] [flywheel/backend/shaders/]: Loaded 78 shader sources in 70.580 ms
+[14Apr2025 23:20:16.462] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Successfully reloaded the minimap shaders!
+[14Apr2025 23:20:16.464] [Render thread/INFO] [xaero.map.WorldMap/]: Successfully reloaded the world map shaders!
+[14Apr2025 23:20:16.470] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader preloaded 1374 jsons
+[14Apr2025 23:20:17.216] [Render thread/INFO] [com.simibubi.create.Create/]: Loaded 51 train hat configurations.
+[14Apr2025 23:20:17.249] [Render thread/INFO] [Controllable/]: Skipped loading bindings.properties since it doesn't exist
+[14Apr2025 23:20:17.249] [Render thread/INFO] [Controllable/]: Skipped loading key_adapters.properties since it doesn't exist
+[14Apr2025 23:20:17.250] [Render thread/INFO] [Controllable/]: Applying gamepad mappings from internal database
+[14Apr2025 23:20:17.278] [Render thread/INFO] [Controllable/]: Successfully updated 532 gamepad mappings
+[14Apr2025 23:20:17.311] [Render thread/INFO] [Oculus/]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[14Apr2025 23:20:17.317] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.device.GLRenderDevice$ImmediateDrawCommandList, which may cause instability.
+[14Apr2025 23:20:17.727] [Render thread/INFO] [ambientsounds/]: Loaded AmbientEngine 'basic' v3.1.3. 11 dimension(s), 11 features, 11 blockgroups, 2 sound collections, 37 regions, 58 sounds, 11 sound categories, 5 solids and 2 biome types
+[14Apr2025 23:20:19.267] [Render thread/WARN] [ModernFix/]: Game took 89.114 seconds to start
+[14Apr2025 23:20:19.362] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.immediate.model.BakedModelEncoder, which may cause instability.
+[14Apr2025 23:20:38.829] [Render thread/INFO] [fr.rakambda.fallingtree.common.network.PacketUtils/]: Disconnected from server, resetting proxy config values
+[14Apr2025 23:20:38.842] [Render thread/INFO] [net.minecraft.client.gui.screens.ConnectScreen/]: Connecting to thehabitat.duckdns.org, 25566
+[14Apr2025 23:20:39.259] [Render thread/INFO] [Framework/]: Loading synced config from server: refurbished_furniture:server
+[14Apr2025 23:20:41.900] [Netty Client IO #1/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a modded server.
+[14Apr2025 23:20:42.190] [Render thread/INFO] [xaero.map.WorldMap/]: New world map session initialized!
+[14Apr2025 23:20:42.241] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: New Xaero hud session initialized!
+[14Apr2025 23:20:42.404] [Render thread/INFO] [Oculus/]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
+[14Apr2025 23:20:42.405] [Render thread/INFO] [Oculus/]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[14Apr2025 23:20:42.406] [Render thread/INFO] [Oculus/]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[14Apr2025 23:20:42.437] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.RenderSectionManager, which may cause instability.
+[14Apr2025 23:20:42.446] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.tasks.ChunkBuilderMeshingTask, which may cause instability.
+[14Apr2025 23:20:42.462] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.format.ChunkMeshFormats, which may cause instability.
+[14Apr2025 23:20:42.464] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.format.ChunkMeshAttribute, which may cause instability.
+[14Apr2025 23:20:42.467] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.attribute.GlVertexFormat$Builder, which may cause instability.
+[14Apr2025 23:20:42.469] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.attribute.GlVertexAttributeFormat, which may cause instability.
+[14Apr2025 23:20:42.471] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.DefaultChunkRenderer, which may cause instability.
+[14Apr2025 23:20:42.474] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.ShaderChunkRenderer, which may cause instability.
+[14Apr2025 23:20:42.491] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.ChunkBuildBuffers, which may cause instability.
+[14Apr2025 23:20:42.497] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.builder.ChunkMeshBufferBuilder, which may cause instability.
+[14Apr2025 23:20:42.500] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.buffers.BakedChunkModelBuilder, which may cause instability.
+[14Apr2025 23:20:42.525] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.smooth.SmoothLightPipeline, which may cause instability.
+[14Apr2025 23:20:42.528] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline, which may cause instability.
+[14Apr2025 23:20:42.545] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [fusion] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer, which may cause instability.
+[14Apr2025 23:20:42.579] [Render thread/INFO] [ChunkBuilder/]: Started 10 worker threads
+[14Apr2025 23:20:42.594] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [embeddium_extra] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.occlusion.OcclusionCuller, which may cause instability.
+[14Apr2025 23:20:42.741] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[14Apr2025 23:20:42.741] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[14Apr2025 23:20:42.800] [Render thread/INFO] [MinecraftTransitRailway/]: Found available port: 80
+[14Apr2025 23:20:42.839] [Render thread/INFO] [org.mtr.libraries.org.eclipse.jetty.util.log/]: Logging initialized @110596ms to org.mtr.libraries.org.eclipse.jetty.util.log.Slf4jLog
+[14Apr2025 23:20:42.893] [Netty Client IO #1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[14Apr2025 23:20:42.915] [Netty Client IO #1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[14Apr2025 23:20:42.939] [Render thread/INFO] [org.mtr.libraries.org.eclipse.jetty.server.Server/]: jetty-9.4.54.v20240208; built: 2024-02-08T19:42:39.027Z; git: cef3fbd6d736a21e7d541a5db490381d95a2047d; jvm 17.0.14+7
+[14Apr2025 23:20:42.985] [Render thread/INFO] [org.mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Started o.m.l.o.e.j.s.ServletContextHandler@19471fd3{/,null,AVAILABLE}
+[14Apr2025 23:20:43.013] [Netty Client IO #1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[14Apr2025 23:20:43.019] [Render thread/INFO] [org.mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Started ServerConnector@16c3071a{HTTP/1.1, (http/1.1)}{0.0.0.0:80}
+[14Apr2025 23:20:43.019] [Render thread/INFO] [org.mtr.libraries.org.eclipse.jetty.server.Server/]: Started @110777ms
+[14Apr2025 23:20:43.020] [Render thread/INFO] [MinecraftTransitRailway/]: Open the Transport System Map at http://localhost:80
+[14Apr2025 23:20:43.020] [Render thread/INFO] [MinecraftTransitRailway/]: Open the Resource Pack Creator at http://localhost:80/creator/
+[14Apr2025 23:20:43.035] [Render thread/INFO] [flywheel/]: Started 10 worker threads
+[14Apr2025 23:20:43.427] [Netty Client IO #1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[14Apr2025 23:20:43.588] [Netty Client IO #1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[14Apr2025 23:20:43.600] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[14Apr2025 23:20:43.602] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.shader.GlProgram, which may cause instability.
+[14Apr2025 23:20:43.614] [Render thread/INFO] [ChunkBuilder/]: Started 10 worker threads
+[14Apr2025 23:20:43.634] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.shader.ShaderType, which may cause instability.
+[14Apr2025 23:20:43.680] [Netty Client IO #1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[14Apr2025 23:20:43.755] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus, embeddium_extra] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.immediate.CloudRenderer, which may cause instability.
+[14Apr2025 23:20:43.782] [Netty Client IO #1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[14Apr2025 23:20:43.830] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Reloading radar icon resources...
+[14Apr2025 23:20:43.846] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Reloaded radar icon resources!
+[14Apr2025 23:20:44.228] [Netty Client IO #1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[14Apr2025 23:20:44.404] [Netty Client IO #1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[14Apr2025 23:20:44.546] [Netty Client IO #1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[14Apr2025 23:20:44.711] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@28ea82fc=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:evaporator/lh_weed_to_lh_extract
+[14Apr2025 23:20:44.715] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@286c38d0=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:weaver/fabric_to_wool
+[14Apr2025 23:20:44.724] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@67e24a97=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:mutator/bubblegum_seeds
+[14Apr2025 23:20:44.728] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@774f6e7f=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:grinder/lh_weed_from_lh_bud
+[14Apr2025 23:20:44.730] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: ae2:charger/ae2:charger/meteorite_compass
+[14Apr2025 23:20:44.735] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@2721bfc=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:grinder/bg_weed_from_bg_bud
+[14Apr2025 23:20:44.741] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@5fc06eb4=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:mutator/bubble_kush_seeds
+[14Apr2025 23:20:44.748] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@1b0e7fd1=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:generator/bud_to_energy
+[14Apr2025 23:20:44.753] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@1040a3eb=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:grinder/ww_weed_from_ww_bud
+[14Apr2025 23:20:44.773] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@f6ae5c=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:evaporator/bi_weed_to_bi_extract
+[14Apr2025 23:20:44.774] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@656a173=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:weaver/string_to_wool
+[14Apr2025 23:20:44.775] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@14f9d50e=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:evaporator/ww_weed_to_ww_extract
+[14Apr2025 23:20:44.787] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@2a5e095a=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:grinder/bi_weed_from_bi_bud
+[14Apr2025 23:20:44.808] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: ae2:charger/ae2:charger/charged_certus_quartz_crystal
+[14Apr2025 23:20:44.808] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@4741b602=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:mutator/sour_diesel_seeds
+[14Apr2025 23:20:44.811] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@4ecee0ed=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:evaporator/bk_weed_to_bk_extract
+[14Apr2025 23:20:44.813] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@67dde6a8=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:evaporator/bg_weed_to_bg_extract
+[14Apr2025 23:20:44.819] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@2c654ef0=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:spinner/grass_to_string
+[14Apr2025 23:20:44.820] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@17d644f3=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:mutator/lemon_haze_seeds
+[14Apr2025 23:20:44.824] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@6f0803f3=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:evaporator/ph_weed_to_ph_extract
+[14Apr2025 23:20:44.837] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@3f4ea3d8=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:mutator/blue_ice_seeds
+[14Apr2025 23:20:44.839] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@43c3aee3=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:grinder/bk_weed_from_bk_bud
+[14Apr2025 23:20:44.850] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@7f98a5c1=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:weaver/fibers_to_fabric
+[14Apr2025 23:20:44.851] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: ae2:charger/ae2:charger/guide
+[14Apr2025 23:20:44.869] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@5e17e5e5=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:extractor/weed_to_hash_oil
+[14Apr2025 23:20:44.885] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@26c1bcaf=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:mutator/purple_haze_seeds
+[14Apr2025 23:20:44.885] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@208cc0f7=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:grinder/ph_weed_from_ph_bud
+[14Apr2025 23:20:44.891] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@a4fc7a5=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:spinner/leaf_to_fiber
+[14Apr2025 23:20:44.894] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@5142f66c=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:generator/weed_to_energy
+[14Apr2025 23:20:44.900] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@4123c145=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:grinder/sd_weed_from_sd_bud
+[14Apr2025 23:20:44.904] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@35899430=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:spinner/fern_to_string
+[14Apr2025 23:20:44.910] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@2055e601=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:spinner/cobweb_to_string
+[14Apr2025 23:20:44.911] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@2f869619=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/smokeleafindustry:evaporator/sd_weed_to_sd_extract
+[14Apr2025 23:20:44.937] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[14Apr2025 23:20:45.450] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[14Apr2025 23:20:45.450] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[14Apr2025 23:20:45.452] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[14Apr2025 23:20:45.460] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[14Apr2025 23:20:45.471] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 11.68 ms
+[14Apr2025 23:20:45.472] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[14Apr2025 23:20:45.474] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 1.839 ms
+[14Apr2025 23:20:45.475] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[14Apr2025 23:20:45.631] [Render thread/WARN] [mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. Operator Utilities
+[14Apr2025 23:20:50.047] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 4.571 seconds
+[14Apr2025 23:20:50.050] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 4.575 s
+[14Apr2025 23:20:50.051] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[14Apr2025 23:20:50.054] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 3.608 ms
+[14Apr2025 23:20:50.055] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[14Apr2025 23:20:50.056] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 760.4 ?s
+[14Apr2025 23:20:50.074] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[14Apr2025 23:20:50.126] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: mekanism:jei_plugin took 27.49 milliseconds
+[14Apr2025 23:20:50.156] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: thermal:expansion took 13.71 milliseconds
+[14Apr2025 23:20:50.197] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: create:jei_plugin took 36.00 milliseconds
+[14Apr2025 23:20:50.217] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 142.5 ms
+[14Apr2025 23:20:50.217] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[14Apr2025 23:20:50.222] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 5.276 ms
+[14Apr2025 23:20:50.224] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[14Apr2025 23:20:50.234] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 10.45 ms
+[14Apr2025 23:20:50.235] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[14Apr2025 23:20:50.256] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 21.15 ms
+[14Apr2025 23:20:50.258] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[14Apr2025 23:20:50.261] [Render thread/INFO] [mezz.jei.library.load.registration.AdvancedRegistration/]: Added recipe manager plugin: class cofh.thermal.expansion.compat.jei.plugins.PotionFluidRecipeManagerPlugin
+[14Apr2025 23:20:50.262] [Render thread/INFO] [mezz.jei.library.load.registration.AdvancedRegistration/]: Added recipe manager plugin: class appeng.integration.modules.jei.FacadeRegistryPlugin
+[14Apr2025 23:20:50.262] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 3.620 ms
+[14Apr2025 23:20:50.264] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[14Apr2025 23:20:51.997] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 1.732 seconds
+[14Apr2025 23:20:52.030] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: botania:main took 32.25 milliseconds
+[14Apr2025 23:20:52.065] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: rechiseled:chiseling_plugin took 26.15 milliseconds
+[14Apr2025 23:20:52.243] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: mekanism:jei_plugin took 177.1 milliseconds
+[14Apr2025 23:20:52.311] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: botanypots:jei_support took 68.87 milliseconds
+[14Apr2025 23:20:52.339] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: securitycraft:securitycraft took 15.96 milliseconds
+[14Apr2025 23:20:52.360] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: playdate:jei took 21.54 milliseconds
+[14Apr2025 23:20:52.495] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: pfm:jei_plugin took 126.4 milliseconds
+[14Apr2025 23:20:52.771] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: chipped:chipped took 276.2 milliseconds
+[14Apr2025 23:20:52.814] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: thermal:expansion took 33.44 milliseconds
+[14Apr2025 23:20:52.862] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: refurbished_furniture:plugin took 43.03 milliseconds
+[14Apr2025 23:20:54.131] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 1.269 seconds
+[14Apr2025 23:20:54.211] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: ae2:core took 72.40 milliseconds
+[14Apr2025 23:20:54.213] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 3.949 s
+[14Apr2025 23:20:54.244] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[14Apr2025 23:20:54.252] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 8.870 ms
+[14Apr2025 23:20:54.255] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[14Apr2025 23:20:54.257] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[14Apr2025 23:20:54.270] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 13.05 ms
+[14Apr2025 23:20:54.272] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[14Apr2025 23:20:54.274] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[14Apr2025 23:20:54.274] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[14Apr2025 23:20:54.846] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 571.5 ms
+[14Apr2025 23:20:54.846] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[14Apr2025 23:20:54.911] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 39697 ingredients
+[14Apr2025 23:20:57.940] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 39697 ingredients
+[14Apr2025 23:20:57.940] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 3.094 s
+[14Apr2025 23:20:58.305] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:forge_gui took 4.032 seconds
+[14Apr2025 23:20:58.306] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 4.033 s
+[14Apr2025 23:20:58.306] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 4.051 s
+[14Apr2025 23:20:58.306] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[14Apr2025 23:20:58.314] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 9 net.minecraft.world.item.ItemStack
+[14Apr2025 23:20:58.317] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 debug_cube_gen ae2:debug_cube_gen
+[14Apr2025 23:20:58.317] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 debug_chunk_loader ae2:debug_chunk_loader
+[14Apr2025 23:20:58.318] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 debug_energy_gen ae2:debug_energy_gen
+[14Apr2025 23:20:58.318] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 debug_item_gen ae2:debug_item_gen
+[14Apr2025 23:20:58.318] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 debug_phantom_node ae2:debug_phantom_node
+[14Apr2025 23:20:58.318] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 EraserItem[debug_eraser] ae2:debug_eraser
+[14Apr2025 23:20:58.318] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 MeteoritePlacerItem[debug_meteorite_placer] ae2:debug_meteorite_placer
+[14Apr2025 23:20:58.318] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 ReplicatorCardItem[debug_replicator_card] ae2:debug_replicator_card
+[14Apr2025 23:20:58.319] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 13.04 ms
+[14Apr2025 23:20:58.320] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 12.87 s
+[14Apr2025 23:20:58.464] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Minimap updated server level id: 76333272 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[14Apr2025 23:20:58.464] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: architectury:network
+[14Apr2025 23:20:58.464] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: architectury:network
+[14Apr2025 23:20:58.465] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: architectury:network
+[14Apr2025 23:20:58.465] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: architectury:network
+[14Apr2025 23:20:58.466] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: architectury:network
+[14Apr2025 23:20:58.466] [Render thread/INFO] [fr.rakambda.fallingtree.common.network.PacketUtils/]: Received FT configuration packet from server, setting up proxy config values
+[14Apr2025 23:20:58.467] [Render thread/INFO] [Jade/]: Received config from the server: {}
+[14Apr2025 23:20:58.471] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [SecurityCraft] Thanks for using SecurityCraft v1.9.12! Tip: If you like SecurityCraft, please consider supporting us on Patreon! As a Patron, you can work with us to get a feature of your choosing into the mod. https://www.patreon.com/Geforce
+[14Apr2025 23:20:58.480] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1213 advancements
+[14Apr2025 23:20:58.490] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 245.9 ?s
+[14Apr2025 23:20:58.495] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 193.7 ?s
+[14Apr2025 23:20:58.507] [Render thread/WARN] [patchouli/]: Invalid icon item stack: Unknown item ID: minecraft:basic_shower_head
+[14Apr2025 23:20:58.511] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 193.7 ?s
+[14Apr2025 23:20:58.568] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 341.2 ?s
+[14Apr2025 23:20:58.569] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 359.0 ?s
+[14Apr2025 23:20:58.592] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 332.3 ?s
+[14Apr2025 23:20:58.690] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 1.404 ms
+[14Apr2025 23:20:58.691] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 1.262 ms
+[14Apr2025 23:20:58.699] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 1.227 ms
+[14Apr2025 23:20:58.792] [Render thread/INFO] [ModernFix/]: Cleared 3589 unneeded book NBT tags
+[14Apr2025 23:20:59.504] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 45 net.minecraft.world.item.ItemStack
+[14Apr2025 23:20:59.740] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 fan_seething_catalyst create_connected:fan_seething_catalyst
+[14Apr2025 23:20:59.740] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 fan_freezing_catalyst create_connected:fan_freezing_catalyst
+[14Apr2025 23:20:59.740] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 fan_sanding_catalyst create_connected:fan_sanding_catalyst
+[14Apr2025 23:20:59.742] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 42 net.minecraft.world.item.ItemStack
+[14Apr2025 23:20:59.905] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 45 net.minecraft.world.item.ItemStack
+[14Apr2025 23:21:00.059] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 fan_seething_catalyst create_connected:fan_seething_catalyst
+[14Apr2025 23:21:00.060] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 fan_freezing_catalyst create_connected:fan_freezing_catalyst
+[14Apr2025 23:21:00.060] [Render thread/ERROR] [mezz.jei.gui.ingredients.IngredientFilter/]: Could not find a matching ingredient to remove: 1 fan_sanding_catalyst create_connected:fan_sanding_catalyst
+[14Apr2025 23:21:00.060] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 42 net.minecraft.world.item.ItemStack
+[14Apr2025 23:21:01.382] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.region.RenderRegion$DeviceResources, which may cause instability.
+[14Apr2025 23:21:01.741] [Flywheel Task Executor #6/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus, embeddium_extra] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.serializers.VertexSerializerRegistryImpl, which may cause instability.
+[14Apr2025 23:21:02.437] [Render thread/WARN] [ModernFix/]: Time from main menu to in-game was 23.594828 seconds
+[14Apr2025 23:21:02.438] [Render thread/WARN] [ModernFix/]: Total time to load game and open world was 112.708824 seconds
+[14Apr2025 23:21:03.743] [Render thread/INFO] [WaveyCapes/]: Using 'get(UUID)' method for MinecraftCapes.
+[14Apr2025 23:21:40.184] [Render thread/INFO] [xaero.map.WorldMap/]: Finalizing world map session...
+[14Apr2025 23:21:40.226] [Thread-8/INFO] [xaero.map.WorldMap/]: World map cleaned normally!
+[14Apr2025 23:21:40.369] [Render thread/INFO] [xaero.map.WorldMap/]: World map session finalized.
+[14Apr2025 23:21:40.369] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero hud session finalized.
+[14Apr2025 23:21:40.371] [Render thread/INFO] [fr.rakambda.fallingtree.common.network.PacketUtils/]: Disconnected from server, resetting proxy config values
+[14Apr2025 23:21:40.372] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[14Apr2025 23:21:40.373] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[14Apr2025 23:21:40.373] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[14Apr2025 23:21:40.374] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[14Apr2025 23:21:40.374] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[14Apr2025 23:21:40.377] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 2.691 ms
+[14Apr2025 23:21:40.389] [Render thread/INFO] [org.mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Stopped ServerConnector@16c3071a{HTTP/1.1, (http/1.1)}{0.0.0.0:80}
+[14Apr2025 23:21:40.392] [Render thread/INFO] [org.mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Stopped o.m.l.o.e.j.s.ServletContextHandler@19471fd3{/,null,STOPPED}
+[14Apr2025 23:21:40.394] [Render thread/INFO] [Framework/]: Unloading synced configs from server
+[14Apr2025 23:21:40.394] [Render thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[14Apr2025 23:21:40.740] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[14Apr2025 23:21:42.142] [Render thread/INFO] [Controllable/]: Applying gamepad mappings from internal database
+[14Apr2025 23:21:42.153] [Render thread/INFO] [Controllable/]: Successfully updated 1 gamepad mappings
+[14Apr2025 23:21:42.154] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[14Apr2025 23:21:42.154] [Render thread/INFO] [fr.rakambda.fallingtree.common.network.PacketUtils/]: Disconnected from server, resetting proxy config values

@@ -1,0 +1,13 @@
+filename = 'MOAdecor HOLIDAYS 1.20.1.jar'
+name = 'MOA DECOR: HOLIDAYS'
+side = 'both'
+
+[download]
+hash = '56b6aec6e78701e9660b353564fb8ea61c057a8b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4784147
+project-id = 920001

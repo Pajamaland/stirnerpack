@@ -1,0 +1,71 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "luphieclutteredmod:luphie_flowering_yellow",
+    "luphieclutteredmod:luphie_flowering_pink",
+    "luphieclutteredmod:luphie_yellow",
+    "luphieclutteredmod:luphie_green",
+    "luphieclutteredmod:luphie_glow",
+    "luphieclutteredmod:luphie_purple",
+    "luphieclutteredmod:luphie_flowering_purple",
+    "luphieclutteredmod:luphie_pink",
+    "botania:livingwood",
+    "botania:dreamwood",
+    "biomesoplenty:fir",
+    "biomesoplenty:pine",
+    "biomesoplenty:maple",
+    "biomesoplenty:redwood",
+    "biomesoplenty:mahogany",
+    "biomesoplenty:jacaranda",
+    "biomesoplenty:palm",
+    "biomesoplenty:willow",
+    "biomesoplenty:dead",
+    "biomesoplenty:magic",
+    "biomesoplenty:umbran",
+    "biomesoplenty:hellbark",
+    "biomesoplenty:empyreal",
+    "thermal:rubberwood"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      {
+        "item": "minecraft:cyan_wool"
+      },
+      {
+        "item": "minecraft:cyan_wool"
+      },
+      {
+        "item": "minecraft:cyan_wool"
+      },
+      {
+        "item": "minecraft:torch"
+      },
+      {
+        "item": "minecraft:redstone"
+      }
+    ],
+    "variantChildren": {
+      "stripped_log": 2
+    }
+  },
+  "result": {
+    "outputClass": "BasicLampBlock",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "cyan"
+      },
+      "variantInNbt": 1
+    }
+  }
+}

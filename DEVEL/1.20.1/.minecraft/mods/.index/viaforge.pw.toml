@@ -1,0 +1,13 @@
+filename = 'viaforge-mc1201-4.1.1.jar'
+name = 'ViaForge'
+side = 'client'
+
+[download]
+hash = '0d6a84ad7bda0b8f75915dd9da17227912dab291af303fafa713265aece11419d9a53bf640bc2e1049a6e41e9137cc83a18b12d8401343ef05b8652dcc919514'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z6se2s8f/versions/Aq4LZMV4/viaforge-mc1201-4.1.1.jar'
+
+[update.modrinth]
+mod-id = 'Z6se2s8f'
+version = 'Aq4LZMV4'
