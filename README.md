@@ -1,2 +1,2 @@
 # STIRNERpack
-Modpack for use with STIRNERNET Minecraft servers
+Repository for downloading the modpack used on STIRNERNET Minecraft servers. No source code is posted to this repo, there is none anyways.
